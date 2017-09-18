@@ -1,0 +1,18 @@
+img.resize {
+    max-width:50%;
+    max-height:50%;
+  }
+  p {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 50px;
+    margin-left: 15px;
+
+    padding-top: 25px;
+    padding-right: 15px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+  }
+  #important {
+    background-color: blueviolet;
+  }
